@@ -1,6 +1,7 @@
 # 🏦 Bank CRM Analysis PowerBI-Project
-Objective To analyze customer behavior, churn trends, and demographic insights to uncover actionable patterns that support customer retention and strategic banking decisions.
-📌 Project Overview
+Objective is to analyze customer behavior, churn trends, and demographic insights to uncover actionable patterns that support customer retention and strategic banking decisions.
+
+## 📌 Project Overview
 This project analyzes bank customer churn, engagement patterns, demographics, and financial behavior using SQL, Power BI, and relational database principles.
 The objective is to uncover:
 
@@ -11,10 +12,10 @@ How CRM insights can support retention
 How dashboards help in strategic decision-making
 The dataset includes 10,000+ customers, multiple relational tables, and detailed banking activity metrics.
 
-📂 Dataset & Schema
+## 📂 Dataset & Schema
 The dataset contains 7 relational tables, grouped into the following domains:
 
-🧑‍🤝‍🧑 Customer Demographics
+## 🧑‍🤝‍🧑 Customer Demographics
 Age
 Gender
 Geography
@@ -33,7 +34,7 @@ Exit reasons
 Churn category
 This relational structure supports powerful cross-table SQL analysis.
 
-🎯 Project Objectives Covering:
+## 🎯 Project Objectives Covering:
 
 Churn prediction patterns
 Customer segmentation
