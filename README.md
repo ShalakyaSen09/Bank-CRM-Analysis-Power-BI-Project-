@@ -21,14 +21,16 @@ The dataset contains 7 relational tables, grouped into the following domains:
 - Geography
 - Tenure
 - Surname
-- 💳 Banking Activity
+
+## 💳 Banking Activity
 - Credit score
 - Products used
 - Account balance
 - Estimated salary
 - Active membership
 - Credit card ownership
--🚪Churn Indicators
+
+## 🚪Churn Indicators
 - Exited / Retained
 - Exit reasons
 - Churn category
