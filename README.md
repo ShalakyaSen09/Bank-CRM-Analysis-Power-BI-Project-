@@ -16,31 +16,38 @@ The dataset includes 10,000+ customers, multiple relational tables, and detailed
 The dataset contains 7 relational tables, grouped into the following domains:
 
 ## 🧑‍🤝‍🧑 Customer Demographics
-Age
-Gender
-Geography
-Tenure
-Surname
-💳 Banking Activity
-Credit score
-Products used
-Account balance
-Estimated salary
-Active membership
-Credit card ownership
-🚪 Churn Indicators
-Exited / Retained
-Exit reasons
-Churn category
+- Age
+- Gender
+- Geography
+- Tenure
+- Surname
+- 💳 Banking Activity
+- Credit score
+- Products used
+- Account balance
+- Estimated salary
+- Active membership
+- Credit card ownership
+-🚪Churn Indicators
+- Exited / Retained
+- Exit reasons
+- Churn category
 This relational structure supports powerful cross-table SQL analysis.
 
 ## 🎯 Project Objectives Covering:
 
-Churn prediction patterns
-Customer segmentation
-Behavioral trends
-Region-wise performance
-Salary & credit score impact
-Tenure analysis
-Dashboard-driven insights
-CRM strategy recommendations
+- Churn prediction patterns
+- Customer segmentation
+- Behavioral trends
+- Region-wise performance
+- Salary & credit score impact
+- Tenure analysis
+- Dashboard-driven insights
+- CRM strategy recommendations
+
+## 🙋‍♂️ Author
+**Shalakya Sen**  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/shalakya-sen-553a72270/)
+
+## 📬 Feedback & Contributions
+Open to feedback and suggestions! Feel free to fork the repo or raise issues.
