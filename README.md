@@ -5,11 +5,11 @@ Objective is to analyze customer behavior, churn trends, and demographic insight
 This project analyzes bank customer churn, engagement patterns, demographics, and financial behavior using SQL, Power BI, and relational database principles.
 The objective is to uncover:
 
-Why customers leave the bank
-Which customer segments are most at risk
-How behavior varies across gender, regions, and product usage
-How CRM insights can support retention
-How dashboards help in strategic decision-making
+Why customers leave the bank ?
+Which customer segments are most at risk ?
+How behavior varies across gender, regions, and product usage ?
+How CRM insights can support retention ?
+How dashboards help in strategic decision-making ?
 The dataset includes 10,000+ customers, multiple relational tables, and detailed banking activity metrics.
 
 ## 📂 Dataset & Schema
@@ -47,6 +47,26 @@ This relational structure supports powerful cross-table SQL analysis.
 - Dashboard-driven insights
 - CRM strategy recommendations
 
+# Strategic Recommendations
+- Targeted Retention Campaigns
+- Focus on customers in high-churn segments with personalized outreach.
+- Enhance Credit Scoring Models
+- Use behavior and churn data to refine risk assessment.
+- Cross-Sell Strategy for Credit Card Holders
+- Encourage usage of additional services based on product overlap analysis.
+- Geo-based Engagement:
+- Develop region-specific engagement and communication strategies, especially for high-churn geographies like Germany.
+
+# Project Outcomes
+- Clear visibility into why and where churn happens
+- Strong segmentation for personalized CRM strategies
+- Readiness for predictive modeling with churn KPIs already in place
+- Power BI Expertise Demonstrated
+- Connected and transformed raw data from multiple sources
+- Created a clean data model with proper relationships and measures
+- Built interactive dashboards with slicers, drill-throughs, and KPIs
+- Defined custom DAX measures to calculate churn rate, segmentation, and averages
+  
 ## 🙋‍♂️ Author
 **Shalakya Sen**  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/shalakya-sen-553a72270/)
